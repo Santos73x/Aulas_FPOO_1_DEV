@@ -19,7 +19,9 @@ public class Fundamentos {
         boolean estudando = true;
         double media = 9.5;
         String bairro = new String("Mario Dedine");
-        
+        int nota1 = Integer.parseInt("10");
+        double mediaF = Double.parseDouble("7");
+        boolean aprovado = Boolean.parseBoolean("true");
         
     }
     
