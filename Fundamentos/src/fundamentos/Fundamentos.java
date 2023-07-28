@@ -17,7 +17,9 @@ public class Fundamentos {
         String nome = "daniel";
         int idade = 17;
         boolean estudando = true;
-        double media = 5.5;
+        double media = 9.5;
+        String bairro = new String("Mario Dedine");
+        
         
     }
     
