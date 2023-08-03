@@ -10,9 +10,6 @@ package fundamentos;
  */
 public class Fundamentos {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         String nome = "daniel";
         int idade = 17;
