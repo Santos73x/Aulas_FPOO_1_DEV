@@ -16,5 +16,9 @@ public class Curso {
     
     atividade03 cursin = new atividade03("DEV", "curso tecnico muito bom com curso de nuvem fica melhor ainda", Enumcategoria.DEV_TECNICO);
         System.out.println(cursin);
+        atividade03 cursin2 = new atividade03("Marcenaria", "curso para progetar moveis ", Enumcategoria.MARCENARIA);
+        System.out.println(cursin2);
+        atividade03 cursin3 = new atividade03("Solda", "soldar moveis", Enumcategoria.SOLDA);
+        System.out.println(cursin3);
     }             
 }
